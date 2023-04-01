@@ -15,6 +15,14 @@
    flex-direction: column;
    flex-wrap: wrap;
 }
+/* SUPERIOR SESSÃO */
+.superior__secao__container{
+   align-items: center;
+   display: flex;
+   gap: 15px;
+   overflow: scroll;
+   white-space: nowrap;
+}
 
 @media screen and (min-width:840px){
    /* CABEÇALHO */
