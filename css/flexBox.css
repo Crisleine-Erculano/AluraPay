@@ -65,6 +65,20 @@
    /* RODAPE */
    .rodape__container{
       justify-content: space-between;
-
    }
+   /* MENU LATERAL PARA TELAS DE TABLETS */
+   .menu__container {
+      height: auto;
+      left: 0;
+      padding: 0 2px;
+      top: 80px;
+      width: 74px;
+  }
+  
+  .menu__lista {
+      flex-direction: column;
+      gap: 33px;
+      justify-content: flex-start;
+      padding-top: 15px;
+  }
 }
