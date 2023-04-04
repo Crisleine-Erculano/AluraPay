@@ -1,41 +1,45 @@
-/* CABEÇALHO */
-.cabecalho__container{
+/* CABEÇALHO PARA MOBILE */
+.cabecalho__container {
    align-items: center;
    display: flex;
    justify-content: space-between;
    position: fixed;
    top: 0;
 }
-.cabecalho__pesquisar__item{
+
+.cabecalho__pesquisar__item {
    display: none;
 }
-/* RODAPE */
-.rodape__container{
+
+/* RODAPE PARA MOBILE */
+.rodape__container {
    display: flex;
    flex-direction: column;
    flex-wrap: wrap;
-   
+
 }
-/* MENU */
-.menu__container{
+
+/* MENU PARA MOBILE */
+.menu__container {
    bottom: 0;
    height: 74px;
    position: fixed;
    width: 100%;
-   
+
 }
-.menu__lista{
+
+.menu__lista {
    display: flex;
    height: 100%;
    justify-content: space-around;
 }
 
-.menu__lista li{
+.menu__lista li {
    align-self: center;
 
 }
 
-.menu__itens{
+.menu__itens {
    display: flex;
    flex-direction: column;
    gap: 5px;
@@ -43,12 +47,12 @@
 
 .menu__lista:nth-child(2),
 .menu__lista:nth-child(3),
-.menu__lista:nth-child(4){
+.menu__lista:nth-child(4) {
    display: none;
 }
 
-/* SESSÃO SUPERIOR */
-.superior__secao__container{
+/* SESSÃO SUPERIOR PARA MOBILE */
+.superior__secao__container {
    align-items: center;
    display: flex;
    gap: 15px;
@@ -57,15 +61,18 @@
 }
 
 
-@media screen and (min-width:840px){
-   /* CABEÇALHO */
-   .cabecalho__pesquisar__item{
+@media screen and (min-width:840px) {
+
+   /* CABEÇALHO PARA TABLETS */
+   .cabecalho__pesquisar__item {
       display: block;
    }
-   /* RODAPE */
-   .rodape__container{
+
+   /* RODAPE PARA TABLETS */
+   .rodape__container {
       justify-content: space-between;
    }
+
    /* MENU LATERAL PARA TELAS DE TABLETS */
    .menu__container {
       height: auto;
@@ -73,12 +80,64 @@
       padding: 0 2px;
       top: 80px;
       width: 74px;
-  }
-  
-  .menu__lista {
+   }
+
+   .menu__lista {
       flex-direction: column;
       gap: 33px;
       justify-content: flex-start;
       padding-top: 15px;
-  }
+   }
+}
+
+@media screen and (min-width:1366px) {
+   .rodape__container {
+      margin-left: 50px;
+   }
+
+   /* MENU LATERAL PARA TELAS DE DESKTOP */
+   .menu__container {
+
+      overflow: scroll;
+      width: auto;
+   }
+
+   .menu__lista:nth-child(2),
+   .menu__lista:nth-child(3),
+   .menu__lista:nth-child(4) {
+      display: flex;
+   }
+
+   .menu__lista {
+      gap: 15px;
+      height: auto;
+      padding: 20px 17px 20px 15px;
+   }
+
+   .menu__lista:nth-child(3) {
+      flex-direction: column-reverse;
+   }
+
+   .menu__lista:nth-child(3),
+   .menu__lista:nth-child(4) {
+      flex-direction: column-reverse;
+   }
+
+   .maispagina {
+      order: -1;
+   }
+
+   .menu__itens {
+      align-items: center;
+      flex-direction: row;
+      gap: 15px;
+   }
+
+   /* SEÇÃO SUPERIOR PARA DESKTOP*/
+
+   .superior__secao__container {
+      left: 247px;
+   }
+
+
 }
