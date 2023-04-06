@@ -5,7 +5,7 @@
 <p>Será feito um  projeto, chamado AluraPlay, que é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops.</p>
 
 <hr>
-<h2>Índice</h2>
+<h1>Índice</h1>
 
 <h2 align="center">
  <a href="#objetivo">Objetivo</a> • 
@@ -20,16 +20,16 @@
 
 Ao fim da página, temos um rodapé com vários tópicos relacionados à área da tecnologia, além de um menu inferior com cinco opções de navegação no site.</p>
 
-![aluraMobile](img/mobile.png)
+![aluraMobile](img/mobile.png)<br><br>
 
 <h2>Agora analisaremos o layout para tablets.</h2>
 
 ![aluraTablet](img/tablet.png)
 
-<p>Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.</p>
+<p>Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.</p><br><br>
 
 <h2>Por fim, analisaremos o layout para desktops.</h2>
 
 ![aluraDesktop](img/desktop.png)
 
-<p>Neste layout, o menu expande de tamanho e ganha mais elementos, os vídeos são distribuídos mais por linha e o rodapé se expande com os tópicos um ao lado do outro.</p>
+<p>Neste layout, o menu expande de tamanho e ganha mais elementos, os vídeos são distribuídos mais por linha e o rodapé se expande com os tópicos um ao lado do outro.</p><br><br>
