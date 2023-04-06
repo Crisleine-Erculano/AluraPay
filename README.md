@@ -26,10 +26,15 @@ Ao fim da página, temos um rodapé com vários tópicos relacionados à área d
 
 ![aluraTablet](img/tablet.png)
 
-<p>Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.</p><br><br>
+<p>Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.</p><br>
 
 <h2>Por fim, analisaremos o layout para desktops.</h2>
 
 ![aluraDesktop](img/desktop.png)
 
-<p>Neste layout, o menu expande de tamanho e ganha mais elementos, os vídeos são distribuídos mais por linha e o rodapé se expande com os tópicos um ao lado do outro.</p><br><br>
+<p>Neste layout, o menu expande de tamanho e ganha mais elementos, os vídeos são distribuídos mais por linha e o rodapé se expande com os tópicos um ao lado do outro.</p><br>
+
+<h1 id="tecnologias">Tecnologias Utilizadas</h1><br>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
