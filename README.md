@@ -7,11 +7,11 @@
 <hr>
 <h2>Índice</h2>
 
-<p align="center">
+<h2 align="center">
  <a href="#objetivo">Objetivo</a> • 
  <a href="#tecnologias">Tecnologias</a> •   
  <a href="#autor">Autor</a>
-</p>
+</h2>
 
 <h1 id="objetivo">Objetivo</h1>
 
@@ -22,13 +22,13 @@ Ao fim da página, temos um rodapé com vários tópicos relacionados à área d
 
 ![aluraMobile](img/mobile.png)
 
-<p>Agora analisaremos o layout para tablets.</p>
+<h2>Agora analisaremos o layout para tablets.</h2>
 
 ![aluraTablet](img/tablet.png)
 
 <p>Nele, o menu que anteriormente era inferior é movido para a lateral esquerda, e o cabeçalho passa a possuir um campo de pesquisa. Os vídeos ficam organizados dois por linha, o rodapé expande de tamanho e os tópicos de tecnologia são quebrados em quatro colunas.</p>
 
-<p>Por fim, analisaremos o layout para desktops.</p>
+<h2>Por fim, analisaremos o layout para desktops.</h2>
 
 ![aluraDesktop](img/desktop.png)
 
