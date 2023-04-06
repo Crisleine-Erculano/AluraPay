@@ -53,7 +53,13 @@
 }
 
 /* VIDEO PARA MOBILE*/
+.videos__container{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 10px;
+}
 .videos__item{
+   flex-grow: 1;
    height: 303px;
    width: 280px;
 }
@@ -145,5 +151,4 @@
       left: 247px;
    }
 
-
-}
+   }
