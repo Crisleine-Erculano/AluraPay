@@ -10,6 +10,7 @@
 <h2 align="center">
  <a href="#objetivo">Objetivo</a> • 
  <a href="#tecnologias">Tecnologias</a> •   
+ <a href="#deploy">Deploy</a> •   
  <a href="#autor">Autor</a>
 </h2>
 
@@ -36,6 +37,10 @@ Ao fim da página, temos um rodapé com vários tópicos relacionados à área d
 
 <h1 id="tecnologias">Tecnologias Utilizadas</h1><br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ -![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ -![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
+ <h1 id="deploy">Deploy</h1><br>
+ <p>Para acessarem o projeto, deixo aqui o deploy do mesmo:</p>
+
+ -[Link para o deploy](https://crisleine-erculano.github.io/AluraPay/)
