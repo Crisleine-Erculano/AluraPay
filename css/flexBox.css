@@ -52,15 +52,17 @@
    white-space: nowrap;
 }
 
-/* VIDEO PARA MOBILE*/
-.videos__container{
+/* VIDEO */
+.videos__container {
    display: flex;
    flex-wrap: wrap;
    gap: 10px;
 }
-.videos__item{
+
+.videos__item {
    flex-grow: 1;
    height: 303px;
+   max-width: 500px;
    width: 280px;
 }
 
@@ -151,4 +153,10 @@
       left: 247px;
    }
 
+   /* VÍDEOS PARA DESKTOP */
+   .videos__container{
+      margin-left: 175px;
+      
    }
+
+}
