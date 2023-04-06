@@ -37,10 +37,17 @@ Ao fim da página, temos um rodapé com vários tópicos relacionados à área d
 
 <h1 id="tecnologias">Tecnologias Utilizadas</h1><br>
 
- -![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
- -![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
  <h1 id="deploy">Deploy</h1><br>
  <p>Para acessarem o projeto, deixo aqui o deploy do mesmo:</p>
 
- -[Link para o deploy](https://crisleine-erculano.github.io/AluraPay/)
+ [Link para o deploy](https://crisleine-erculano.github.io/AluraPay/) <br>
+
+ <h1 id="autor">Autor(a)</h1>
+
+ Feito com muito ❤️ por Crisleine Erculano 👋🏽 Contate-me!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Crisleine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crisleine-erculano/)](https://www.linkedin.com/in/crisleine-erculano/) 
+[![Gmail Badge](https://img.shields.io/badge/-candidocrislaine576@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:candidocrislaine576@gmail.com)](mailto:candidocrislaine576@gmail.com)
